@@ -1,2 +1,1 @@
-# MU-RESEARCH
-Datasets and Python codes for the collider reinterpretation of invisible Higgs decay limits in Higgs-portal vector dark matter.
+This repository accompanies the MSc thesis Higgs Boson Portal to Dark Matter: Invisible Higgs Decays in the VBF Channel (Mulungushi University, 2026). It contains the datasets, analysis scripts, and plotting codes used to convert published limits on BR(H→inv) into bounds on the invisible Higgs width, the Higgs-portal coupling ghVV, and the spin-independent dark matter–nucleon scattering cross section. The repository is provided to support transparency, reproducibility, and future updates of the analysis as new collider and direct-detection results become available.
