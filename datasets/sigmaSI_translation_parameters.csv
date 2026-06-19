@@ -1,0 +1,6 @@
+Parameter,Value
+m_h,125.0
+Gamma_SM,0.0041
+f_N,0.30
+m_N,0.939
+Portal_Model,Vector_Higgs_Portal
