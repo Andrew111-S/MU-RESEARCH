@@ -1,0 +1,5 @@
+Step,Input,Output
+1,BR(H->inv),Gamma_inv_max
+2,Gamma_inv_max,g_hVV_max
+3,g_hVV_max,sigmaSI
+4,sigmaSI,Comparison_with_LZ_XENONnT_PandaX4T
