@@ -1,0 +1,18 @@
+Reproducibility environment used to test the corrected thesis workflow
+
+Python: 3.13.5
+NumPy: 2.3.5
+pandas: 2.2.3
+Matplotlib: 3.10.8
+SciPy: 1.17.0
+
+The corrected scripts were executed successfully in this environment using the
+final corrected collider and direct-detection datasets.
+
+Validated benchmark:
+mV = 50 GeV
+ATLAS 2022 VBF-only g_hVV^max = 1.49501 GeV
+sigma_SI^max = 1.263993e-46 cm^2
+
+Mass grid:
+1600 points from 1.00 to 62.45 GeV
